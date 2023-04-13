@@ -1,5 +1,6 @@
 # alwaysdata
 发现版主写教程很辛苦，我写的不好，看图吧自己领悟吧
+
 一、注册账号建立网站
 ![image](https://github.com/dsadsadsss/alwaysdata/blob/main/1.PNG)
 二、点开设置 高级里面添加 #Token=eyxxx
