@@ -14,7 +14,7 @@
 六、![image](https://github.com/dsadsadsss/alwaysdata/blob/main/6.PNG)
 七、![image](https://github.com/dsadsadsss/alwaysdata/blob/main/7.PNG)
 八、设置argo
-![image](https://github.com/dsadsadsss/alwaysdata/blob/main/7.PNG)
+![image](https://github.com/dsadsadsss/alwaysdata/blob/main/8.PNG)
 #配置（VMESS,其他配置可以参考config文件）
 UUDID:e7043f9e-0910-4471-91bf-0713c7ab99f6
 路径:/vmess
